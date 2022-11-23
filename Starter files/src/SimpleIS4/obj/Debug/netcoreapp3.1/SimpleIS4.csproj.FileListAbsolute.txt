@@ -1,0 +1,146 @@
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/SimpleIS4
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/SimpleIS4.deps.json
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/SimpleIS4.runtimeconfig.json
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/SimpleIS4.runtimeconfig.dev.json
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/SimpleIS4.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/SimpleIS4.pdb
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/IdentityModel.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/IdentityServer4.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/IdentityServer4.Storage.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/Serilog.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/Serilog.AspNetCore.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/Serilog.Extensions.Hosting.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/Serilog.Extensions.Logging.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/Serilog.Formatting.Compact.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/Serilog.Settings.Configuration.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/Serilog.Sinks.Console.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/Serilog.Sinks.Debug.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/Serilog.Sinks.File.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.csproj.AssemblyReference.cache
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.AssemblyInfoInputs.cache
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.AssemblyInfo.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.csproj.CoreCompileInputs.cache
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.MvcApplicationPartsAssemblyInfo.cache
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/staticwebassets/SimpleIS4.StaticWebAssets.Manifest.cache
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/staticwebassets/SimpleIS4.StaticWebAssets.Pack.cache
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.SimpleIS4.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.SimpleIS4.props
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.SimpleIS4.props
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.SimpleIS4.props
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.RazorTargetAssemblyInfo.cache
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.csproj.CopyComplete
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.pdb
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.genruntimeconfig.cache
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/SimpleIS4.Views.dll
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/bin/Debug/netcoreapp3.1/SimpleIS4.Views.pdb
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.RazorAssemblyInfo.cache
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.RazorAssemblyInfo.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.TagHelpers.input.cache
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.TagHelpers.output.cache
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.RazorCoreGenerate.cache
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Account/AccessDenied.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Account/LoggedOut.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Account/Logout.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Consent/Index.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Device/Success.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Device/UserCodeCapture.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Device/UserCodeConfirmation.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Diagnostics/Index.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Grants/Index.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Redirect.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Nav.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ScopeListItem.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationSummary.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.RazorTargetAssemblyInfo.cs
+/Users/josehernandezhernandez/Projects/AuthSamples/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.Views.pdb
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/SimpleIS4
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/SimpleIS4.deps.json
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/SimpleIS4.runtimeconfig.json
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/SimpleIS4.runtimeconfig.dev.json
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/SimpleIS4.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/SimpleIS4.pdb
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/SimpleIS4.Views.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/SimpleIS4.Views.pdb
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/IdentityModel.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/IdentityServer4.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/IdentityServer4.Storage.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/Serilog.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/Serilog.AspNetCore.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/Serilog.Extensions.Hosting.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/Serilog.Extensions.Logging.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/Serilog.Formatting.Compact.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/Serilog.Settings.Configuration.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/Serilog.Sinks.Console.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/Serilog.Sinks.Debug.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/Serilog.Sinks.File.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.csproj.AssemblyReference.cache
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.AssemblyInfoInputs.cache
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.AssemblyInfo.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.csproj.CoreCompileInputs.cache
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.MvcApplicationPartsAssemblyInfo.cache
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.RazorAssemblyInfo.cache
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.RazorAssemblyInfo.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/staticwebassets/SimpleIS4.StaticWebAssets.Manifest.cache
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/staticwebassets/SimpleIS4.StaticWebAssets.Pack.cache
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.SimpleIS4.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.SimpleIS4.props
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.SimpleIS4.props
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.SimpleIS4.props
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.TagHelpers.input.cache
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.TagHelpers.output.cache
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.RazorCoreGenerate.cache
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Account/AccessDenied.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Account/LoggedOut.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Account/Logout.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Consent/Index.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Device/Success.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Device/UserCodeCapture.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Device/UserCodeConfirmation.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Diagnostics/Index.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Grants/Index.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Redirect.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Nav.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ScopeListItem.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationSummary.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.RazorTargetAssemblyInfo.cache
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.RazorTargetAssemblyInfo.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.Views.pdb
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.csproj.CopyComplete
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.pdb
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/SimpleIS4/obj/Debug/netcoreapp3.1/SimpleIS4.genruntimeconfig.cache

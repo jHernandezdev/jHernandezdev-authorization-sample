@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ImageGallery.Client
+build_property.ProjectDir = /Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/ImageGallery.Client/

@@ -14,7 +14,7 @@ namespace ImageGallery.API.Services
             _context = galleryContext ?? 
                 throw new ArgumentNullException(nameof(galleryContext));
         }
-
+        
         public bool ImageExists(Guid id)
         {
             return _context.Images.Any(i => i.Id == id);
@@ -25,9 +25,10 @@ namespace ImageGallery.API.Services
             return _context.Images.FirstOrDefault(i => i.Id == id);
         }
   
-        public IEnumerable<Image> GetImages()
+        public IEnumerable<Image> GetImages(string ownerId)
         {
             return _context.Images
+                .Where(i => i.OwnerId == ownerId)
                 .OrderBy(i => i.Title).ToList();
         }
 

@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="Varios proyectos">
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Varios proyectos" Name="Varios proyectos">
+      <Items>
+        <StartupItem ItemId="{DAAF4707-C078-4AF0-A076-85A1ACC1E012}" ItemName="ImageGallery.API" ConfigurationId="Default" />
+        <StartupItem ItemId="{06D1048B-31A1-4FAA-BDDE-B098EBADAF85}" ItemName="ImageGallery.Client" ConfigurationId="Default" />
+        <StartupItem ItemId="{4CEE1FAC-DA18-471E-849F-F9E1404DB398}" ItemName="SimpleIS4" ConfigurationId="SelfHost" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/SimpleIS4/Startup.cs">
+    <Files>
+      <File FileName="src/ImageGallery.API/Controllers/ImagesController.cs" />
+      <File FileName="src/ImageGallery.Client/Startup.cs" Line="39" Column="14" />
+      <File FileName="src/SimpleIS4/Startup.cs" Line="52" Column="37" />
+      <File FileName="src/SimpleIS4/Config.cs" Line="21" Column="36" />
+      <File FileName="src/ImageGallery.API/Startup.cs" Line="1" Column="1" />
+      <File FileName="src/ImageGallery.Client/HttpHandlers/BearerTokenHandler.cs" Line="19" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ImageGallery" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="ImageGallery.API" expanded="True" />
+              <Node name="ImageGallery.Client" expanded="True">
+                <Node name="HttpHandlers" expanded="True" />
+                <Node name="Startup.cs" selected="True" />
+              </Node>
+              <Node name="SimpleIS4" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.src.SimpleIS4 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/ImageGallery.Client/HttpHandlers/BearerTokenHandler.cs" relfile="src/ImageGallery.Client/HttpHandlers/BearerTokenHandler.cs" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.src.ImageGallery.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.src.ImageGallery.Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

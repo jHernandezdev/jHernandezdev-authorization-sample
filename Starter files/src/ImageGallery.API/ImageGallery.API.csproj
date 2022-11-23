@@ -4,8 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'IIS Express' " />
   <ItemGroup>
     <Folder Include="wwwroot\" />
+    <Folder Include="Authorization\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -16,10 +18,15 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="IdentityServer4.AccessTokenValidation" Version="3.0.1" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\ImageGallery.Model\ImageGallery.Model.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="IdentityServer4.AccessTokenValidation" />
+    <None Remove="Authorization\" />
+  </ItemGroup>
 </Project>

@@ -10,15 +10,14 @@
   "profiles": {
     "IIS Express": {
       "commandName": "Project",
+      "applicationUrl": "https://localhost:44366/",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      },
-      "applicationUrl": "https://localhost:44366/"
+      }
     },
     "ImageGallery.API": {
       "commandName": "Project",
-      "launchBrowser": true,
-      "launchUrl": "http://localhost:5000",
+      "applicationUrl": "https://localhost:5002",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

@@ -6,14 +6,27 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\" />
+    <Folder Include="Views\Authorization\" />
+    <Folder Include="HttpHandlers\" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="3.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+    <PackageReference Include="IdentityModel" Version="6.0.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\ImageGallery.Model\ImageGallery.Model.csproj" />
   </ItemGroup>
    
+  <ItemGroup>
+    <None Remove="Microsoft.AspNetCore.Authentication.OpenIdConnect" />
+    <None Remove="Microsoft.VisualStudio.Web.CodeGeneration.Design" />
+    <None Remove="IdentityModel" />
+    <None Remove="Views\Authorization\" />
+    <None Remove="IdentityServer4.AccessTokenValidation" />
+    <None Remove="HttpHandlers\" />
+  </ItemGroup>
 </Project>

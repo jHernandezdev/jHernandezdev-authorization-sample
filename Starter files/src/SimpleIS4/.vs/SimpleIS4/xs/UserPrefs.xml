@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{89F782B9-B83B-42DC-88F2-749B141232B5}|SelfHost">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SimpleIS4 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Config.cs">
+    <Files>
+      <File FileName="Config.cs" Line="16" Column="48" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="35" Column="38" />
+      <File FileName="Quickstart/TestUsers.cs" Line="10" Column="43" />
+      <File FileName="Quickstart/Account/ExternalController.cs" Line="39" Column="49" />
+      <File FileName="Quickstart/Account/AccountController.cs" Line="21" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimpleIS4" expanded="True">
+            <Node name="SimpleIS4" expanded="True">
+              <Node name="Config.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

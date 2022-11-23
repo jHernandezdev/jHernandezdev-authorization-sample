@@ -1,0 +1,10 @@
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/ImageGallery.Model/bin/Debug/netstandard2.0/ImageGallery.Model.deps.json
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/ImageGallery.Model/bin/Debug/netstandard2.0/ImageGallery.Model.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/ImageGallery.Model/bin/Debug/netstandard2.0/ImageGallery.Model.pdb
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.csproj.AssemblyReference.cache
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.AssemblyInfoInputs.cache
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.AssemblyInfo.cs
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.csproj.CoreCompileInputs.cache
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.dll
+/Users/josehernandezhernandez/Projects/PluralShight/SecuringAspNetCore3WithOAuth2AndOIDC/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.pdb
